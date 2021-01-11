@@ -5,5 +5,6 @@
 - [study-linux](https://github.com/chenfengshf/study-linux)
 - [study-python](https://github.com/chenfengshf/study-python)
 - [study-web开发](https://github.com/chenfengshf/study-webdev)
+- [study-c语言](https://github.com/chenfengshf/study-c)
 # TODO
 - 基于php做一个自动博客转化（md2html）应用，侧边栏标题按照目录来分级
