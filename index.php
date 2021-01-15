@@ -3,7 +3,7 @@
   // Header
   function getDirAndFileList(){
     // 获取当前文件的上级目录
-    $con = dirname('markdown/test.md');
+    $con = dirname('markdown/README.md');
     return scandir($con);
   }
   echo "<nav style=\"overflow:scroll;\">";
