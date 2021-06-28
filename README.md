@@ -9,4 +9,4 @@
 - [study-php](https://github.com/chenfengshf/study-php) 哈哈
 - [study-umi](https://github.com/chenfengshf/study-umi)
 # TODO
-- 基于php做一个自动博客转化（md2html）应用，侧边栏标题按照目录来分级
+- ~基于php做一个自动博客转化（md2html）应用，侧边栏标题按照目录来分级~ （弃了弃了，不如去整个动态博客）
